@@ -1,0 +1,13 @@
+name = "Lan Server Properties"
+filename = "lanserverproperties-1.8-forge.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "0bc6267101fe07b2b812f84edc383da3381e04d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3831950
+project-id = 387365

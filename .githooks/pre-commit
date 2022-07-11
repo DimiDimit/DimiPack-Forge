@@ -1,0 +1,6 @@
+#!/bin/sh
+
+set -euo pipefail
+
+packwiz update --all
+packwiz refresh
