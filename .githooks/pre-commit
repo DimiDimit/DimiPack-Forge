@@ -1,6 +1,10 @@
 #!/bin/sh
 
 set -euo pipefail
+exec < /dev/tty
+
+git diff --cached --name-only | grep --quiet --fixed-strings --line-regexp "index.toml" || exit 0
 
 packwiz update --all
 packwiz refresh
+git add .
