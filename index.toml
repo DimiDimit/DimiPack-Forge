@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "678df7998f941a280a54bb646072eedcaf1b91e1e4f73d1661e50238a7713216"
+hash = "4b790d3197511f0a343a90823d82e5874e0db1ee3f42368744701dd70d407e40"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.pw.toml"
-hash = "c9401dbeea3ef478851b2831e481da7049e9cee458fa7d2f367aec2efa88cb76"
+hash = "1fb77b30bb9c670b722889ddf1c37854857b4f69e3f1b5dc00b56e70bf73d853"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons.pw.toml"
-hash = "ee78ffd262dd499b0cf6075b78884a1d62c1a0617b9883ef0fbaffe0d94024b6"
+hash = "031354411914d9d55f58dc35624744021b34d4fc591093b55e2ab2eacd3823a2"
 metafile = true
 
 [[files]]
@@ -218,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "eef6efd0387e522ca77ac7257e671e16b86f43f7d79a8dfd53215d96175fad9a"
 metafile = true
 
 [[files]]
@@ -361,6 +366,11 @@ hash = "ff409d0b2b62eb669282869e3ce7c297cf00bc8ff0113106d66713198b13cde3"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "f351646482be762a013d8de02a436fa2d75200f4ba0d97088a28cc245252ef8e"
+metafile = true
+
+[[files]]
 file = "mods/rubidium.pw.toml"
 hash = "8b3b87eff25081ebb3dcfc9753d7b7da6b33fa00146c0c0327cb8c2c5057548a"
 metafile = true
@@ -391,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcintegrations.pw.toml"
-hash = "b89a011cc8215d579f8189e961e7a567775b008b6cbf36635d89edc89738a370"
+hash = "603d47258fbf7002d233d6a03818a19116875e4c48586bd8384f4c48238bf545"
 metafile = true
 
 [[files]]
