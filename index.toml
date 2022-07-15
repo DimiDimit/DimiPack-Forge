@@ -51,6 +51,11 @@ hash = "7aeb578e8ef3996f0004da879942e0e3a4b5a6f327da78241025f200e829f863"
 metafile = true
 
 [[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "eb3b0632a958279236ad10c8ee4986439c96335ef764c04e9724be514d8306e8"
+metafile = true
+
+[[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "6a6c57d3f0855c6ea489dd74deff8ffbd82cc53a61811f603ed99ea5a0bc45d7"
 metafile = true
@@ -72,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "4b790d3197511f0a343a90823d82e5874e0db1ee3f42368744701dd70d407e40"
+hash = "d7bf70918b7b4f33fe50ca4f3b20cb6a3b5d49fa35ca58217190f579adac664a"
 metafile = true
 
 [[files]]
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "0943b652d4e0778622c99801b870208a39782c040a73413648ab93240fcd2088"
+metafile = true
+
+[[files]]
+file = "mods/ender-storage-1-8.pw.toml"
+hash = "7129dd0baa2447cfc50176833dbbd70cb0b27a9918f7c1e7b68ee22a2fc339be"
 metafile = true
 
 [[files]]
@@ -192,12 +202,12 @@ metafile = true
 
 [[files]]
 file = "mods/item-filters.pw.toml"
-hash = "d4cf7ea8175ed8863cd09f67cec4de71e921d18db6d8cdac219be59b4a5a46aa"
+hash = "ee93d1f6d4b4625863d109ad40b1953b9303812fd80ded5f358345df030f536d"
 metafile = true
 
 [[files]]
 file = "mods/jade-addons.pw.toml"
-hash = "031354411914d9d55f58dc35624744021b34d4fc591093b55e2ab2eacd3823a2"
+hash = "f5ff7542a20c71a77ac2039fe83c87045bc48a4f9d6eee2434abc1856d66829f"
 metafile = true
 
 [[files]]
@@ -207,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3e963187c3f080269bc97d3a419ab4b8395bc9fcb86e413f39658cae659b0990"
+hash = "e22d97b84d3261bc1921600e5c7354ad5bfe44229a7e4bc82b71e4c712d81c3f"
 metafile = true
 
 [[files]]
@@ -401,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcintegrations.pw.toml"
-hash = "603d47258fbf7002d233d6a03818a19116875e4c48586bd8384f4c48238bf545"
+hash = "c497d8749c40195b9fa77e7814c041b6ca78aed525cc69e8b32d1855ba529078"
 metafile = true
 
 [[files]]
