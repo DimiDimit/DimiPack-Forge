@@ -1,6 +1,6 @@
 name = "DimiPack Forge 1.18.2"
 author = "DimiDimit"
-version = "0.0.1"
+version = "0.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
