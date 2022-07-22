@@ -1,13 +1,13 @@
 name = "Sedna"
-filename = "sedna-1.18.2-forge-1.0.13+7355dbe.jar"
+filename = "sedna-1.18.2-forge-1.0.14+21d424a.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "84183532b8f9582fc030164ea412a9c222da8041"
+hash = "f8f4719325647d2c8b3cbd47531c49dd472cf660"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3737661
+file-id = 3885542
 project-id = 511276
