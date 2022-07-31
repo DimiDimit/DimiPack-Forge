@@ -116,6 +116,11 @@ hash = "1e01a0a20beee87fd094813c57b3c05135587470211d88a32593272933ce0a7f"
 metafile = true
 
 [[files]]
+file = "mods/extrastorage.pw.toml"
+hash = "18a4bf9ee5672da7b7349518d013b227baed5daf7c55932206865ece282aa059"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5cc2822b0265c3f8202bf41f814e96fb6ff41c86159322bb05bb13d8babc0234"
 metafile = true
@@ -378,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "6060f946f071cec9b66f96040bf36901241bce5e1d1de7bf2ba485dbea83df98"
+metafile = true
+
+[[files]]
+file = "mods/rsinfinitybooster.pw.toml"
+hash = "c9d95c1419a5dab16a436bacdb8971f545ef79e406518bcf91de3c341b434150"
 metafile = true
 
 [[files]]
