@@ -1,13 +1,13 @@
 name = "Cyclic"
-filename = "Cyclic-1.18.2-1.7.5.jar"
+filename = "Cyclic-1.18.2-1.7.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "aab6f46ecc99fc1c5e10985899cf58ea03143c9c"
+hash = "da0f2dc33da267ac7d869180910859947575d81f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3888481
+file-id = 3895500
 project-id = 239286

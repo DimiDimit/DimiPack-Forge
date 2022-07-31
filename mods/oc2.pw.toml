@@ -1,13 +1,13 @@
 name = "OpenComputers II"
-filename = "oc2-1.18.2-forge-0.1.7+6a003fc.jar"
+filename = "oc2-1.18.2-forge-0.1.8+3feb69b.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bfbbb00cfe455f1c9e24a17573f8928853728032"
+hash = "150a36f866ee87bcd320209682245eb545bf02cd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3739469
+file-id = 3896581
 project-id = 437654

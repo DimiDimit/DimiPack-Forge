@@ -1,12 +1,12 @@
 name = "DimiPack Forge 1.18.2"
 author = "DimiDimit"
-version = "0.1.0"
+version = "0.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f6f87ece7cdf439028dee6a6179ed749d0088d80fc0e00bd0ed65bc3191b561e"
+hash = "2c8f8f8d61c2e6909df700e83edbf7946ba7ac0f9d2169c8ca4e7f83201809a6"
 
 [versions]
 forge = "40.1.68"
