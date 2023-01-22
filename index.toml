@@ -236,6 +236,21 @@ hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "2100e99d7d9dae43f992b3c62ce88374414309b39f0526254ed826f686d3a1bb"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-thermal.pw.toml"
+hash = "b0f56d03dbc7bdc85d51c627b41926e97dc7423ca5420e58fb9231a1a06476df"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-ui.pw.toml"
+hash = "1bfc3bfd36b4ec6584a0b47fff71a4ce8c6b3b752643dabad1a92b1f170a462e"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "e6b776afed7c97e107ed03285ea1b3970a265b27a883410c3faaee27db1b6d41"
 metafile = true
@@ -318,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/polylib.pw.toml"
 hash = "dc5355c75b3a14c1d0735f6db571f07aae00ca531bdb471aebaf89addcda5a4e"
+metafile = true
+
+[[files]]
+file = "mods/ponder.pw.toml"
+hash = "0471838ee06b45e0bb517abefa01189e1b450d43e86caa0baf671c6124b5702e"
 metafile = true
 
 [[files]]
