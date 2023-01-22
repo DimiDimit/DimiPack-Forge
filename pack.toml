@@ -1,13 +1,13 @@
 name = "DimiPack Forge 1.18.2"
 author = "DimiDimit"
-version = "0.1.1"
+version = "0.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "24912d3297893a0d4e6c250ca28a2206e19c7868a3a045959a6676eee4f05b13"
+hash = "bd23e06395fd4d06127743f2fadb334c4d86d227613ea1f0479a8bac2675b816"
 
 [versions]
-forge = "40.1.68"
+forge = "40.2.0"
 minecraft = "1.18.2"

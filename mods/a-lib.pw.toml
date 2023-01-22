@@ -1,13 +1,13 @@
-name = "A Lib"
-filename = "alib-1.18.2-2.jar"
+name = "AlchemyLib"
+filename = "alchemylib-1.18.2-1.0.20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3b2e848cc8fd21db6d5d378a7cff67c97952b07f"
+hash = "94063a8cb53f701b5cd1b4231d014d61171a8c68"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3707492
+file-id = 4238626
 project-id = 293426
