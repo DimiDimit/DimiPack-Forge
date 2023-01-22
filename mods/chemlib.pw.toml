@@ -5,9 +5,9 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "a21b06279fe16f409e78fd05d66513643dce1c69"
-url = "https://edge.forgecdn.net/files/3710/767/chemlib-1.18.2-2.jar"
+mode = "metadata:curseforge"
 
-#[update]
-#[update.curseforge]
-#file-id = 3710767
-#project-id = 340666
+[update]
+[update.curseforge]
+file-id = 3710767
+project-id = 340666

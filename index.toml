@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/alchemistry.pw.toml"
-hash = "ddb779c91b51ba82aab81fe7a1beb19249c117d33f11d9adcd7966f6c70e341f"
+hash = "89ea42e8d24285a90de4b1a593d2d64d9fe6f9a5e08e8cbc6f61b4ffb1a78403"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/chemlib.pw.toml"
-hash = "7aeb578e8ef3996f0004da879942e0e3a4b5a6f327da78241025f200e829f863"
+hash = "16b87b84828386effd8f9297ffcdd735e7cf6bd248aa1a12b9c51f7c4b19e572"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "8f79c15eb39efbf7e490fdfc165ba978cdf9ee2ff0be460d7e443ff2eb680f54"
+hash = "bdae978e23bfb390237af307271096778a3f3a5d283353acfa4dd0568b50433d"
 metafile = true
 
 [[files]]

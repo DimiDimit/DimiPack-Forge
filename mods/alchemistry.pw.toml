@@ -5,9 +5,9 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "d0a6d7068eba56a711237d4835d6d44b70b147ae"
-url = "https://edge.forgecdn.net/files/3891/671/alchemistry-1.18.2-2.0.2.jar"
+mode = "metadata:curseforge"
 
-#[update]
-#[update.curseforge]
-#file-id = 3891671
-#project-id = 293425
+[update]
+[update.curseforge]
+file-id = 3891671
+project-id = 293425

@@ -5,9 +5,9 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "0db23da5edc2f3ea0109fd303a21c27622813a55"
-url = "https://edge.forgecdn.net/files/3881/817/jei-1.18.2-9.7.0.226.jar"
+mode = "metadata:curseforge"
 
-#[update]
-#[update.curseforge]
-#file-id = 3881817
-#project-id = 238222
+[update]
+[update.curseforge]
+file-id = 3881817
+project-id = 238222
