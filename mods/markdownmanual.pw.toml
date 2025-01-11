@@ -1,13 +1,13 @@
 name = "Markdown Manual"
-filename = "markdown_manual-1.18.2-forge-1.2.1+59006bb.jar"
+filename = "markdown_manual-MC1.20.1-forge-1.2.5+c3f0b88.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6bd3213179586ef67beac3dc00f1a748d5ef856e"
+hash = "9e2dec58cb2d827e42dc8453214d815a7b63ce82"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3738124
+file-id = 4873115
 project-id = 502485

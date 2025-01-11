@@ -1,13 +1,8 @@
 name = "Sedna"
-filename = "sedna-1.18.2-forge-1.0.14+21d424a.jar"
+filename = "sedna-1.18.2-forge-1.0.37+17cb253.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f8f4719325647d2c8b3cbd47531c49dd472cf660"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3885542
-project-id = 511276
+url = "https://github.com/Un1q32/sedna-mc/releases/download/1.20.1-forge%2F1.0.37/sedna-1.18.2-forge-1.0.37+17cb253.jar"
+hash-format = "sha512"
+hash = "febb1e601667d7633d74f09485926410fc9c22cf216783f94aa37f734bd10b641ccc376215d2a8457cd5291c6798df73e14aff312b048c96400884ccef1c98bd"

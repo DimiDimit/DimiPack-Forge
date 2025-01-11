@@ -1,13 +1,13 @@
 name = "FTB Ultimine (Forge)"
-filename = "ftb-ultimine-forge-1802.3.3-build.70.jar"
+filename = "ftb-ultimine-forge-2001.1.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bb78506165481bf964c5bdb0590cd14e5e4a1cc3"
+hash = "106aa8ae16ceda4bb7244bfc64a6ee86c842f2a5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4216216
+file-id = 5363345
 project-id = 386134
