@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-lan.pw.toml"
-hash = "1c377a6b619c1dcd90d02e4bf596c1e25dddf416e8096781d6516d12bb604213"
+hash = "a05e3b9084cea302d8aad7f363ef25c9964430764d65705ccf4718ef38f0c2f3"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+hash = "a74b2d65c286896335b454f61f18be630d0f13767626ebb118584907d1d37112"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "c8c25cccf1f0c3aaa0a5639f28f40d61b4eadd3130558b39ce6c279b8b775556"
+hash = "27f69e040bd3275a1ee455353f1ad31b69200d72122308ead260522a6c2525e0"
 metafile = true
 
 [[files]]
@@ -435,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/radium-reforged.pw.toml"
-hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
+hash = "777162abfe58f0dfe425fdde1e9c0e5ede4969ae875324173daec99cb93f2b00"
 metafile = true
 
 [[files]]
@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "34529d5f0c5f2f32715dbb34cedb422ef747bf7a790b4a5bdcfa45b3dead9545"
+hash = "7f20617d162cfb912c92a79693ce3de7189d05b0c23bbe1ff6a5bf90da5de3c9"
 metafile = true
 
 [[files]]
