@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.pw.toml"
-hash = "824b3e2ebff6e42276175dada8d833e1764bd823f055e9fff8119815df8e6dee"
+hash = "fc017a34acc87d9e654124192aeee7bbb4bf9ea7ec6a8cd401a4fd739864c14f"
 metafile = true
 
 [[files]]
@@ -504,11 +504,6 @@ hash = "02a0e01835a490a5b05e12327c1ccdf9e005f3c8b7c59a2297a664ed0a93aff7"
 metafile = true
 
 [[files]]
-file = "mods/sedna.pw.toml"
-hash = "fa48fa0d80181e7804165b0eedbff4f7c144d60523748f78cca3b45cdafb9820"
-metafile = true
-
-[[files]]
 file = "mods/sinytra-connector.pw.toml"
 hash = "0eab5a7036d1f06d6a7d4679685eaec5723a5c21469f519de1cd1e0ff416ade3"
 metafile = true
@@ -521,6 +516,11 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "eb7fb878f669cc17a22d19902fe96cdcfe541a9cf7d03eb7244fc11e13713b61"
+metafile = true
+
+[[files]]
+file = "mods/tcintegrations.pw.toml"
+hash = "b69cc3995c2de75b5cb9f0d999cd11bf05225da0ec209c8244ae88a6f6f58f56"
 metafile = true
 
 [[files]]
@@ -560,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "63d0df966e9ffc61fdd94d746cd26d076b1bb4f778a7c17b78e0d3cbe35d94b9"
+hash = "6f7ff5ce2685a7e6b11f10f46468fc7ae7320cab9178e5cf33e2a24bd515c276"
 metafile = true
 
 [[files]]

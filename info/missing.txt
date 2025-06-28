@@ -1,3 +1,2 @@
 integrated-nbt
 kubejs-ui
-tcintegrations
